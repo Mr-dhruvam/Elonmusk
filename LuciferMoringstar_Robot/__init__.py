@@ -22,7 +22,7 @@ HELP = """
 ABOUT = """
 <b>➥ Name : Filter Bot</b>
 <b>➥ Creator : <a href='https://t.me/Prince_Star_Lord'>ֆȶǟʀ ʟօʀɖ</a></b>
-<b>➥ Developers : <a href='https://t.me/M2LINKS'>M2LINKS</a></b>
+<b>➥ Developers : <a href='https://t.me/Holly_And_Bolly'>Holly_And_Bolly</a></b>
 
 """
 
